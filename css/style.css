@@ -96,13 +96,11 @@ h3 {
 	width: 100%;
 	background: #666699;
 }
-.wf-list-city li:hover{
-	opacity: .5
-}
-
-.wf-list-city:hover{
-	background-color: #fff;
+.wf-list-city:hover li{
 	opacity: .5;
+}
+.wf-list-city li:hover{
+	opacity: 1;
 }
 footer {
 	padding: 30px 0;
