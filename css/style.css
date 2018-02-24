@@ -2,7 +2,6 @@
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-	transition: all .1s ease-in;
 }
 
 html {
@@ -33,6 +32,7 @@ h3 {
 	max-width: 1024px;
 	margin: 0 auto;
 	padding: 0 25px;
+	transition: all .1s ease-in;
 }
 .wf-list-city{
 	border: 3px solid #fff;
@@ -41,6 +41,7 @@ h3 {
 	padding: 0;
 	font-size: 0;
 	background: #fff;
+	
 }
 .wf-list-city li {
 	display: inline-block;
