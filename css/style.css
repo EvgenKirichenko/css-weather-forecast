@@ -39,6 +39,7 @@ h3 {
 	margin: 0;
 	padding: 0;
 	font-size: 0;
+	background: #fff;
 }
 .wf-list-city li {
 	display: inline-block;
@@ -98,7 +99,6 @@ h3 {
 }
 .wf-list-city:hover li{
 	opacity: .5;
-	background: #fff;
 }
 .wf-list-city li:hover{
 	opacity: 1;
