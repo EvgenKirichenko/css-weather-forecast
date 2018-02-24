@@ -101,6 +101,7 @@ h3 {
 }
 .wf-list-city li:hover{
 	opacity: 1;
+	background: #fff;
 }
 footer {
 	padding: 30px 0;
